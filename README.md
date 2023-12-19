@@ -1,5 +1,5 @@
 # VADisabilityCalculator
-Web based VA Disability Calculator written with JS and JSON.
+Web based VA Disability Calculator written with Javascript.
 
 
 This is the source code for my VA Disability Calculator. To see it in action, check it out here:
